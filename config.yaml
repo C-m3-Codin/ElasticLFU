@@ -1,0 +1,6 @@
+input: ./Broken_sr-api-internal-laravel/
+output: asd
+host: http://192.168.0.104:9200
+user: elastic
+password: password@123
+index: sr-api-internal-laravel
